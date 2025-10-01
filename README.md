@@ -12,7 +12,7 @@ Este proyecto se desarrolla en el marco de la competencia de Kaggle para el curs
 
 El proyecto está organizado en varios cuadernos de Jupyter, cada uno enfocado en una etapa específica del proceso:
 
-*   *01-Exploracion_y_Carga.ipynb: Notebook de la **Entrega 1*. Contiene el código para la carga de los datos (train.csv y test.csv) y un análisis exploratorio inicial (EDA) para entender la distribución, los tipos de datos y los valores faltantes.
+**01-Exploracion_y_Carga.ipynb** : Notebook de la *Entrega 1*. Contiene el código para la carga de los datos (train.csv y test.csv) y un análisis exploratorio inicial (EDA) para entender la distribución, los tipos de datos y los valores faltantes.
 
 ## 💻 Tecnologías Utilizadas
 
