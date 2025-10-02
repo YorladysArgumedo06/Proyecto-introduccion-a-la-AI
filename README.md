@@ -6,24 +6,25 @@ Este repositorio contiene el desarrollo de un modelo de Machine Learning para pr
 
 El objetivo principal es construir un modelo de clasificación capaz de asignar a cada estudiante una de las cuatro categorías de rendimiento definidas. Para lograrlo, se realiza un proceso completo que abarca desde la exploración y limpieza de los datos hasta el entrenamiento y la evaluación de diferentes algoritmos de Machine Learning.
 
-Este proyecto se desarrolla en el marco de la competencia de Kaggle para el curso de Ingenieria Industrial Virtual [514].
+Este proyecto se desarrolla en el marco de la competencia de Kaggle para el curso de [Nombre de la Materia/Curso].
 
 ## 📂 Estructura del Repositorio
 
 El proyecto está organizado en varios notebooks de Jupyter, cada uno enfocado en una etapa específica del proceso:
 
-*   *01-Exploracion_y_Carga.ipynb: Notebook de la **Entrega 1*. Contiene el código para la carga de los datos (train.csv y test.csv) y un análisis exploratorio inicial (EDA) para entender la distribución, los tipos de datos y los valores faltantes.
+*   **`01 - exploración.ipynb`**: Notebook de la **Entrega 1**. Contiene el código para la carga de los datos (`train.csv` y `test.csv`) y un análisis exploratorio inicial (EDA) para entender la distribución, los tipos de datos y los valores faltantes.
+
 
 ## 💻 Tecnologías Utilizadas
 
 Para el desarrollo de este proyecto se utilizaron las siguientes herramientas y librerías de Python:
 
-*   *Python 3.x*
-*   *Pandas:* Para la manipulación y análisis de datos.
-*   *NumPy:* Para operaciones numéricas eficientes.
-*   *Scikit-learn:* Para el entrenamiento y evaluación de los modelos de Machine Learning.
-*   *Matplotlib y Seaborn:* Para la visualización de datos y la creación de gráficos.
-*   *Jupyter Notebook / Google Colab:* Como entorno de desarrollo interactivo.
+*   **Python 3.x**
+*   **Pandas:** Para la manipulación y análisis de datos.
+*   **NumPy:** Para operaciones numéricas eficientes.
+*   **Scikit-learn:** Para el entrenamiento y evaluación de los modelos de Machine Learning.
+*   **Matplotlib y Seaborn:** Para la visualización de datos y la creación de gráficos.
+*   **Jupyter Notebook / Google Colab:** Como entorno de desarrollo interactivo.
 
 ## 👥 Autores
 
@@ -31,7 +32,7 @@ Este proyecto fue desarrollado por:
 
 | Nombre Completo             | Número de Identificación | Carrera Universitaria              |
 | --------------------------- | ------------------------ | ---------------------------------- |
-| *Yorladys Argumedo Lozano*  | 1038824209             | Ingeniería Industrial Virtual      |
-| *Sebastian Gabriel Castro*| 1029720632             | Ingeniería Industrial Virtual      |
+| **Yorladys Argumedo Lozano**  | `1038824209`             | Ingeniería Industrial Virtual      |
+| **Sebastian Gabriel Castro**| `1029720632`             | Ingeniería Industrial Virtual      |
 
 ---
